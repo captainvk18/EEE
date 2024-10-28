@@ -59,6 +59,7 @@ text-decoration: none;
   cursor: pointer;
   border-style:groove;
   border-radius: 12px;
+  border-color: crimson;
 
 }
 #im:hover{
