@@ -51,10 +51,10 @@ text-decoration: none;
   width:150px;
 }
 #im{
-  box-shadow:0 0 5px #E504C8,
+  box-shadow:0 0 5px #F02501,
   0 0 25px #ED4A07,
-  0 0 40px #F01C00,
-  0 0 56px #EDB207;
+  0 0 40px #F01C00;
+ 
   border-style:groove;
   cursor: pointer;
   border-style:groove;
